@@ -1,0 +1,10 @@
+name = "Popov"
+version = "0.1.0"
+defaultTargets = ["popov"]
+
+[[lean_lib]]
+name = "Popov"
+
+[[lean_exe]]
+name = "popov"
+root = "Main"
